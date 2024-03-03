@@ -1,6 +1,6 @@
 ---
-title:  Vườn của Quốc Quân
+title:  Blog của Quốc Quân >.<
 ---
 
-This is a blank Quartz installation.
+Hello, mọi người
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
